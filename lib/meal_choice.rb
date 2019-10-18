@@ -3,6 +3,6 @@ def meal_choice(veg1 , veg2 , protein = 'meat')
   puts "A plate of #{protein} with #{veg1} and {veg2}."
 end
 
-veg1 = "potato"
-veg2 = "carrots"
-meal_choice("potato" , "carrots")
+veg1 = "broccoli"
+veg2 = "macaroni"
+meal_choice("maca" , "carrots")
