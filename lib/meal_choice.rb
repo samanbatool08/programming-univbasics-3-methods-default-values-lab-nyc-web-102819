@@ -5,4 +5,4 @@ end
 
 veg1 = "potato"
 veg2 = "carrots"
-meal_choice("potato" , "carrots" , "meat")
+meal_choice("potato" , "carrots")
