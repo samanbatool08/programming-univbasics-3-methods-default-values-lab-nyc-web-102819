@@ -4,5 +4,8 @@ def meal_choice(veg1 , veg2 , protein = 'meat')
 end
 
 veg1 = "broccoli"
+puts broccoli
 veg2 = "macaroni"
+puts macaroni
+
 
